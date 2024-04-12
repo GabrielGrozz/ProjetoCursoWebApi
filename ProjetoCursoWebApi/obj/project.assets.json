@@ -1554,23 +1554,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ESTUDOS\\.nuget\\packages\\": {},
+    "C:\\Users\\Usuário\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dev\\2024\\ProjetoCursoWebApi\\ProjetoCursoWebApi\\ProjetoCursoWebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Usuário\\source\\repos\\2024\\ProjetoCursoWebApi\\ProjetoCursoWebApi\\ProjetoCursoWebApi.csproj",
       "projectName": "ProjetoCursoWebApi",
-      "projectPath": "D:\\dev\\2024\\ProjetoCursoWebApi\\ProjetoCursoWebApi\\ProjetoCursoWebApi.csproj",
-      "packagesPath": "C:\\Users\\ESTUDOS\\.nuget\\packages\\",
-      "outputPath": "D:\\dev\\2024\\ProjetoCursoWebApi\\ProjetoCursoWebApi\\obj\\",
+      "projectPath": "C:\\Users\\Usuário\\source\\repos\\2024\\ProjetoCursoWebApi\\ProjetoCursoWebApi\\ProjetoCursoWebApi.csproj",
+      "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuário\\source\\repos\\2024\\ProjetoCursoWebApi\\ProjetoCursoWebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ESTUDOS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1592,6 +1592,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1642,7 +1647,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

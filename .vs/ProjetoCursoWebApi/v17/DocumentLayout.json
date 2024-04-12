@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usu\u00E1rio\\source\\repos\\2024\\ProjetoCursoWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA20CFA4-C7E3-4373-8DB2-75451C7314F3}|ProjetoCursoWebApi\\ProjetoCursoWebApi.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\2024\\projetocursowebapi\\projetocursowebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA20CFA4-C7E3-4373-8DB2-75451C7314F3}|ProjetoCursoWebApi\\ProjetoCursoWebApi.csproj|solutionrelative:projetocursowebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA20CFA4-C7E3-4373-8DB2-75451C7314F3}|ProjetoCursoWebApi\\ProjetoCursoWebApi.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\2024\\projetocursowebapi\\projetocursowebapi\\infra\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA20CFA4-C7E3-4373-8DB2-75451C7314F3}|ProjetoCursoWebApi\\ProjetoCursoWebApi.csproj|solutionrelative:projetocursowebapi\\infra\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA20CFA4-C7E3-4373-8DB2-75451C7314F3}|ProjetoCursoWebApi\\ProjetoCursoWebApi.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\2024\\projetocursowebapi\\projetocursowebapi\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA20CFA4-C7E3-4373-8DB2-75451C7314F3}|ProjetoCursoWebApi\\ProjetoCursoWebApi.csproj|solutionrelative:projetocursowebapi\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA20CFA4-C7E3-4373-8DB2-75451C7314F3}|ProjetoCursoWebApi\\ProjetoCursoWebApi.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\2024\\projetocursowebapi\\projetocursowebapi\\entities\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA20CFA4-C7E3-4373-8DB2-75451C7314F3}|ProjetoCursoWebApi\\ProjetoCursoWebApi.csproj|solutionrelative:projetocursowebapi\\entities\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA20CFA4-C7E3-4373-8DB2-75451C7314F3}|ProjetoCursoWebApi\\ProjetoCursoWebApi.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\2024\\projetocursowebapi\\projetocursowebapi\\infra\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA20CFA4-C7E3-4373-8DB2-75451C7314F3}|ProjetoCursoWebApi\\ProjetoCursoWebApi.csproj|solutionrelative:projetocursowebapi\\infra\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA20CFA4-C7E3-4373-8DB2-75451C7314F3}|ProjetoCursoWebApi\\ProjetoCursoWebApi.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\2024\\projetocursowebapi\\projetocursowebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA20CFA4-C7E3-4373-8DB2-75451C7314F3}|ProjetoCursoWebApi\\ProjetoCursoWebApi.csproj|solutionrelative:projetocursowebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA20CFA4-C7E3-4373-8DB2-75451C7314F3}|ProjetoCursoWebApi\\ProjetoCursoWebApi.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\2024\\projetocursowebapi\\projetocursowebapi\\mapper\\viewmodeltoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA20CFA4-C7E3-4373-8DB2-75451C7314F3}|ProjetoCursoWebApi\\ProjetoCursoWebApi.csproj|solutionrelative:projetocursowebapi\\mapper\\viewmodeltoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA20CFA4-C7E3-4373-8DB2-75451C7314F3}|ProjetoCursoWebApi\\ProjetoCursoWebApi.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\2024\\projetocursowebapi\\projetocursowebapi\\mapper\\entitytoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA20CFA4-C7E3-4373-8DB2-75451C7314F3}|ProjetoCursoWebApi\\ProjetoCursoWebApi.csproj|solutionrelative:projetocursowebapi\\mapper\\entitytoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA20CFA4-C7E3-4373-8DB2-75451C7314F3}|ProjetoCursoWebApi\\ProjetoCursoWebApi.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\2024\\projetocursowebapi\\projetocursowebapi\\viewmodels\\newsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA20CFA4-C7E3-4373-8DB2-75451C7314F3}|ProjetoCursoWebApi\\ProjetoCursoWebApi.csproj|solutionrelative:projetocursowebapi\\viewmodels\\newsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 251,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MongoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\2024\\ProjetoCursoWebApi\\ProjetoCursoWebApi\\Infra\\MongoRepository.cs",
+              "RelativeDocumentMoniker": "ProjetoCursoWebApi\\Infra\\MongoRepository.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\2024\\ProjetoCursoWebApi\\ProjetoCursoWebApi\\Infra\\MongoRepository.cs",
+              "RelativeToolTip": "ProjetoCursoWebApi\\Infra\\MongoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:55:37.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataBaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\2024\\ProjetoCursoWebApi\\ProjetoCursoWebApi\\Infra\\DataBaseSettings.cs",
+              "RelativeDocumentMoniker": "ProjetoCursoWebApi\\Infra\\DataBaseSettings.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\2024\\ProjetoCursoWebApi\\ProjetoCursoWebApi\\Infra\\DataBaseSettings.cs",
+              "RelativeToolTip": "ProjetoCursoWebApi\\Infra\\DataBaseSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:52:58.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\2024\\ProjetoCursoWebApi\\ProjetoCursoWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjetoCursoWebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\2024\\ProjetoCursoWebApi\\ProjetoCursoWebApi\\appsettings.json",
+              "RelativeToolTip": "ProjetoCursoWebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T19:50:39.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\2024\\ProjetoCursoWebApi\\ProjetoCursoWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoCursoWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\2024\\ProjetoCursoWebApi\\ProjetoCursoWebApi\\Program.cs",
+              "RelativeToolTip": "ProjetoCursoWebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:40:49.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewModelToEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\2024\\ProjetoCursoWebApi\\ProjetoCursoWebApi\\Mapper\\ViewModelToEntity.cs",
+              "RelativeDocumentMoniker": "ProjetoCursoWebApi\\Mapper\\ViewModelToEntity.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\2024\\ProjetoCursoWebApi\\ProjetoCursoWebApi\\Mapper\\ViewModelToEntity.cs",
+              "RelativeToolTip": "ProjetoCursoWebApi\\Mapper\\ViewModelToEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:40:49.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EntityToViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\2024\\ProjetoCursoWebApi\\ProjetoCursoWebApi\\Mapper\\EntityToViewModel.cs",
+              "RelativeDocumentMoniker": "ProjetoCursoWebApi\\Mapper\\EntityToViewModel.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\2024\\ProjetoCursoWebApi\\ProjetoCursoWebApi\\Mapper\\EntityToViewModel.cs",
+              "RelativeToolTip": "ProjetoCursoWebApi\\Mapper\\EntityToViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:40:49.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\2024\\ProjetoCursoWebApi\\ProjetoCursoWebApi\\ViewModels\\NewsViewModel.cs",
+              "RelativeDocumentMoniker": "ProjetoCursoWebApi\\ViewModels\\NewsViewModel.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\2024\\ProjetoCursoWebApi\\ProjetoCursoWebApi\\ViewModels\\NewsViewModel.cs",
+              "RelativeToolTip": "ProjetoCursoWebApi\\ViewModels\\NewsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:40:49.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\2024\\ProjetoCursoWebApi\\ProjetoCursoWebApi\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ProjetoCursoWebApi\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\2024\\ProjetoCursoWebApi\\ProjetoCursoWebApi\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "ProjetoCursoWebApi\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:40:49.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\2024\\ProjetoCursoWebApi\\ProjetoCursoWebApi\\Entities\\News.cs",
+              "RelativeDocumentMoniker": "ProjetoCursoWebApi\\Entities\\News.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\2024\\ProjetoCursoWebApi\\ProjetoCursoWebApi\\Entities\\News.cs",
+              "RelativeToolTip": "ProjetoCursoWebApi\\Entities\\News.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:40:49.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 149,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

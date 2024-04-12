@@ -9,9 +9,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-#region [AutoMapper]
+//mapeamento da nossa model para um view model
 builder.Services.AddAutoMapper(typeof(EntityToViewModel), typeof(ViewModelToEntity));
-#endregion
 
 var app = builder.Build();
 
